@@ -1,0 +1,2 @@
+# BlockingUI
+UnityEngine.UIの中にあるObjectPoolをスレッドセーフにしたものです。
